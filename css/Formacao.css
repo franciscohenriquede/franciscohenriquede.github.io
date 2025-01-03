@@ -20,7 +20,7 @@ position: relative;
     display: block ;
     width: 130px;
     height: 100px;
-    background: url(../../07-projeto-portfolio/0710-footer/portfolio/img/detalhe.svg)  no-repeat center;
+    background: url("../imagem/detalhe.svg")  no-repeat center;
     position: absolute;
      bottom: -50px;
      left: 20px;
@@ -118,11 +118,11 @@ margin-bottom: 60px;
 }
 
 .cursos h3::before{
-    background: url("../../07-projeto-portfolio/0710-footer/portfolio/img/cursos.svg");
+    background: url("../imagem/cursos.svg");
 }
  
 .idiomas h3::before{
-    background: url("../../07-projeto-portfolio/0710-footer/portfolio/img/idiomas.svg");
+    background: url("../imagem/idiomas.svg");
 }
  
 
