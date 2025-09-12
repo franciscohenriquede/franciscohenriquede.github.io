@@ -16,13 +16,14 @@
 }
 
 .experiencia-texto {
-    font-size: 1.5rem;
-    line-height: 1.33;
-    margin-bottom: 60px;
-    max-width: 40ch;
-    color: #525252;
+    font-size: 1.75rem;
+    line-height: 1.6;
+    margin: -20px auto 40px auto; /* margem superior negativa para subir o texto */
+    max-width: 65ch;
+    color: #333333;
+    font-weight: 400;
+    text-align: center; /* opcional, centraliza o texto */
 }
-
 .experiencia-texto strong {
 
     color: #141414;
