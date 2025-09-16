@@ -9,7 +9,7 @@
 
 }
 
-.introducao h1{
+.introducao h1 {
 
     font-size: 4.5rem;
     line-height: 1.125;
@@ -63,7 +63,7 @@ input {
     display: none;
 }
 
-input:checked + label .button_inner {
+input:checked + label .button_inne r {
     background: transparent;
     transform: rotate(90deg);
     width: 100px;
